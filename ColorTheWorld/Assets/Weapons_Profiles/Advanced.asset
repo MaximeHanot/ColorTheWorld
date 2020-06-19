@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 282230f64a487a846898c1fc586ff323, type: 3}
+  m_Name: Advanced
+  m_EditorClassIdentifier: 
+  WeaponName: Advanced Sword
+  WeaponMesh: {fileID: 1780172742515082, guid: a8bda4ad2f0d66e4893a3578cd76dac6, type: 2}
+  AttackDammageMin: 20
+  AttackDammageMax: 30
+  MaxAttackDistance: 10
+  MinAttackDistance: 2
